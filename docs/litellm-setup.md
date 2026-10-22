@@ -174,4 +174,4 @@ export CLAUDE_CODE_OPENAI_CONTEXT_WINDOWS='{"long-context-model":1000000}'
 
 - [LiteLLM Proxy Docs](https://docs.litellm.ai/docs/proxy/quick_start)
 - [LiteLLM Provider List](https://docs.litellm.ai/docs/providers)
-- [LiteLLM OpenAI-Compatible Endpoints](https://docs.litellm.ai/docs/proxy/openai_compatible_proxy)
+- [LiteLLM OpenAI-Compatible Endpoints](https://docs.litellm.ai/docs/providers/openai_compatible)
